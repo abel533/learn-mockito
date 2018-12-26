@@ -8,7 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <properties>
-        <spring>4.3.14.RELEASE</spring>
+        <spring>4.3.18.RELEASE</spring>
     </properties>
 
     <dependencies>
